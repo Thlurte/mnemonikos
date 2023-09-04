@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "996095f9780b0501",
+    "type": "split",
+    "children": [
+      {
+        "id": "1165309de5100094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22c827deea17cf59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slip-box/1693792819158.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dd17f39301c9994",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3d86231b01ac02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "486d3ae12b1f9f0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f27a8a506b643a9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e7381d3b75cef66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5110321044922
+  },
+  "right": {
+    "id": "aeb4354c8f0ac4e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "599f123d0dd6c3c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93a1227083004ec1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "slip-box/1693792819158.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0b04f498b8a154f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "slip-box/1693792819158.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d464c2462ce2e25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54d2762db12f75b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slip-box/1693792819158.md"
+              }
+            }
+          },
+          {
+            "id": "5e1af4f802cb4ab4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "22c827deea17cf59",
+  "lastOpenFiles": [
+    "skeleton/record.md",
+    "slip-box/1693792819158.md",
+    "slip-box/1693792751322.md",
+    "skeleton",
+    "slip-box"
+  ]
+}
