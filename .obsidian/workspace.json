@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slip-box/1699615987764.md",
+                "file": "slip-box/1700766892603.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a26135cc5afc99",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-12 09.59.51.excalidraw.md"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bubb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5110321044922
+    "width": 203.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "aeb4354c8f0ac4e5",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slip-box/1699615987764.md",
+                "file": "slip-box/1700766892603.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slip-box/1699615987764.md",
+                "file": "slip-box/1700766892603.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slip-box/1699615987764.md"
+                "file": "slip-box/1700766892603.md"
               }
             }
           },
@@ -171,41 +182,46 @@
   },
   "active": "2f308c118a29b566",
   "lastOpenFiles": [
-    "slip-box/1699591533629.md",
-    "slip-box/1699615987764.md",
-    "slip-box/1699590789630.md",
-    "slip-box/1699590756410.md",
-    "slip-box/1699589533785.md",
-    "slip-box/1699519391617.md",
-    "slip-box/1699519942423.md",
-    "slip-box/1699529569671.md",
-    "slip-box/1699504474789.md",
-    "slip-box/1699505620546.md",
-    "slip-box/1699513362210.md",
-    "slip-box/1699519015036.md",
-    "slip-box/1699453949149.md",
-    "slip-box/1699453610948.md",
-    "slip-box/1699453078090.md",
-    "slip-box/1699445387259.md",
-    "slip-box/1699445076892.md",
-    "slip-box/1698851750063.md",
+    "Pasted image 20231124011444.png",
+    "Pasted image 20231124011344.png",
+    "Pasted image 20231124010913.png",
+    "Pasted image 20231124005428.png",
+    "Pasted image 20231124005144.png",
+    "Pasted image 20231124005015.png",
+    "Excalidraw/Drawing 2023-11-12 09.59.51.excalidraw.md",
+    "slip-box/1700766892603.md",
+    "clusters/169885/1699529569671.md",
+    "clusters/169885/1699505620546.md",
+    "clusters/169885/1699615987764.md",
+    "clusters/169885/1699453610948.md",
+    "clusters/169885/1699419466843.md",
+    "clusters/169885/1699098810685.md",
+    "clusters/169975/1699752954609.md",
+    "clusters/169975/1699752954608.md",
+    "1699752954610.md",
+    "Excalidraw",
     "skeleton/record.md",
+    "slip-box/1699753929698.md",
+    "clusters/169975",
+    "clusters/169885/1698851750063.md",
+    "clusters/169885/1699618212800.md",
+    "clusters/169885",
+    "slip-box/1699751391601.md",
+    "slip-box/1699751348763.md",
+    "clusters/169885/1699591533629.md",
+    "clusters/169885/1699590789630.md",
+    "clusters/169885/1699590756410.md",
+    "clusters/169885/1699589533785.md",
+    "clusters/169885/1699519391617.md",
+    "clusters/169885/1699519942423.md",
+    "clusters/169885/1699504474789.md",
+    "clusters/169885/1699513362210.md",
     "clusters",
-    "slip-box/1699098810685.md",
-    "slip-box/1699321209701.md",
-    "slip-box/1699416477695.md",
-    "slip-box/1699417099596.md",
-    "slip-box/1699418164441.md",
-    "slip-box/1699419466843.md",
-    "slip-box/1699441999131.md",
     "workings",
     "source/SnowCrash.pdf",
     "source/Snow Crash -- Neal Stephenson -- 2003 -- Random House Publishing Group -- 9780553898194 -- 1ffce47922250bd9665db93e4a72efe3 -- Anna’s Archive.pdf",
     "source/Perceptrons.pdf",
     "source/Perceptrons_ An Introduction to Computational Geometry -- Marvin Minsky, Seymour A. Papert -- Expanded, 1987 -- The MIT Press -- 9780262631112 -- 8486b416f728b5d1035d2543e794a216 -- Anna’s Archive.pdf",
-    "source/Computation, Finite And Infinite Machines -- Marvin Lee Minsky -- Prentice;Hall series in automatic computation, 1967 -- Prentice-Hall -- e401815c991634a84a5e6552e5f49f0f -- Anna’s Archive.pdf",
-    "source/Perceptrons, Reissue of the 1988 Expanded Edition with a new -- Marvin Minsky, Seymour A. Papert -- 2017 -- MIT Press -- 9780262534772 -- df49b8a5329f16276769ce4d14ac41eb -- Anna’s Archive.pdf",
-    "source/dokumen.pub_the-experience-machine-how-our-minds-predict-and-shape-reality-1524748455-9781524748456.epub",
-    "source/The Experience Machine -- Andy Clark -- 2023 -- Knopf Doubleday Publishing Group -- f9e6871bc1b47ef702a88815e5e9b9a6 -- Anna’s Archive.epub"
+    "source/Computation, Finite And Infinite Machines -- Marvin Lee Minsky -- Prentice;Hall series in automatic computation, 1967 -- Prentice-Hall -- e401815c991634a84a5e6552e5f49f0f -- Anna’s Archive.pdf"
   ]
 }

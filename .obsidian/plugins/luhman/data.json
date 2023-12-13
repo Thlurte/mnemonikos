@@ -1,0 +1,10 @@
+{
+  "matchRule": "strict",
+  "addTitle": false,
+  "addAlias": false,
+  "useLinkAlias": false,
+  "separator": "⁝ ",
+  "templateFile": "",
+  "templateRequireTitle": false,
+  "templateRequireLink": false
+}

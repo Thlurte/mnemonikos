@@ -17,7 +17,7 @@
   "iframeWidth": "iframe-default-width",
   "mapWidth": "map-default-width",
   "chartWidth": "chart-default-width",
-  "colorfulHeadings": false,
+  "colorfulHeadings": true,
   "colorfulFrame": false,
   "colorfulActiveStates": true,
   "trimNames": true,
@@ -31,6 +31,6 @@
   "useSystemTheme": false,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "devBlockWidth": false
 }
