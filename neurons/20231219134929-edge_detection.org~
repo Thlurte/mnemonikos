@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c3074214-ef74-4180-ad06-8f1074eae324
+:END:
+#+title: Edge Detection
+Edge detection is about identifying *edges* (cruves) in a digital image. These edges are detected by identifying the places where image brightness changes sharply or, has discontinuities. This is is a fundamental tool in image processing and [[id:5c9de025-e68f-49f8-9698-9103653c397d][Computer Vision]].

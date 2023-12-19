@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5c9de025-e68f-49f8-9698-9103653c397d
+:END:
+#+title: Computer Vision
+This is a subfiled of AI that trains computers to interpret and understand the visual world.

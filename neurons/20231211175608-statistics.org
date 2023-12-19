@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       c346d2e2-6a88-44c5-92dc-a2f312d46a37
-:END:
-#+title: Statistics
-
-some stuff i type to see how org-roam works..

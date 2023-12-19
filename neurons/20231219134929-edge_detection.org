@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       c3074214-ef74-4180-ad06-8f1074eae324
+:END:
+#+title: Edge Detection
+Edge detection is about identifying *edges* (cruves) in a digital image. These edges are detected by identifying the places where image brightness changes sharply or, has discontinuities. This is is a fundamental tool in image processing and [[id:5c9de025-e68f-49f8-9698-9103653c397d][Computer Vision]].
+
+In a given scenario we might have to detect vertical and horizontal images, so how do we go about doing this :
+
+Let's say that there is an (6 \times 6) image :
+
+\begin{center}
+\begin{tabular}{|c |c| c| c| c| c|}
+\hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+\end{tabular} 
+\end{center}
+
+We detect the vertical edges by convolving the (3 \times 3)  matrix (We call this matrix filter or kernal)  on the given image :
+
+\begin{center}
+\begin{tabular}{|c |c| c| c| c| c|}
+\hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+10 & 10 & 10 & 0 & 0 & 0 \\ \hline
+\end{tabular} *
+\begin{tabular}{|c|c|c|}
+\hline
+1 & 0 & -1 \\ \hline
+1 & 0 & -1 \\ \hline
+1 & 0 & -1 \\ \hline
+\end{tabular}
+\end{center}
+
+To eloborate simply on how the operation works we say,
+
+- Apply the kernal on the first three rows and columns of the matrix
+- Perform the convolution operation
+- Shift the kernal to the left by one column
+- Repeat the operation until we reach the end of the column
+- Once we reach the right side of the image we shift one row downwards and perform the operation from the first column
+- we repeat these flow of operation until we reach the end of the matrix.
+
+ The calculation (elementwise multiplication and addition) for a given specific part would look like this :
+
+ (10 \times 1) + (10 \times 1) + (10 \times 1) + (10 \times 0) + (10 \times 0) + (10 \times 0) + (10 \times -1) + (10 \times -1) + (10 \times -1)
+
+ We repeat this procedure until we reach rightward, downmost part of the matrix. At the end we would  obtain a (4 \times 4) matrix that would look like this : 
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+0 & 30 & 30 & 0 \\ \hline
+0 & 30 & 30 & 0 \\ \hline
+0 & 30 & 30 & 0 \\ \hline
+0 & 30 & 30 & 0 \\ \hline
+\end{tabular}
+
+What we can understand from this is that , there is a strong vertical edge down the middle of the image.
+
+We saw that the above (3 \times 3) filter was able to capture the vertical edges, what if there is a need to detect horizontal edges, what kind of filter would be a great use. Based on the previous filter we can conclude that the transpose of that matrix can be used to detect horizontal edges.
+
+\begin{tabular}{|c|c|c|}
+\hline
+1 & 1 & 1 \\ \hline
+0 & 0 & 0 \\ \hline
+-1 & -1 & -1 \\ \hline
+\end{tabular}
+
+Apart from this, in general following filters are used to detect edges in a image.
+
+\begin{tabular}{|c|c|c|}
+\hline
+1 & 0 & -1 \\ \hline
+2 & 0 & -2 \\ \hline
+1 & 0 & -1 \\ \hline
+\end{tabular}
+
+

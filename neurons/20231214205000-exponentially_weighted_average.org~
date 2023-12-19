@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fbf81893-e140-445f-aeb6-a3a424e33a34
+:END:
+#+title: Exponentially Weighted Average
+Exponentially weighted average  is about  weighing the number of observations and using their average. 
