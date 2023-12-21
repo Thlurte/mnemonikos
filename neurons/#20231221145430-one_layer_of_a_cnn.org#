@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       05d02e90-3075-44df-aa1e-63f27f23f5ea
+:END:
+#+title: One Layer of a CNN
+Lets say that we convolved a RGB image on two filters and got results as 4 \times 4 \times 2. To turn this output into a neural net layer we will add bias and apply non linearity.
+
+#+begin_export latex
+\begin{tikzpicture}
+\draw (0,0) -- (4,0) -- (4,4) -- (0,4) -- (0,0);
+\end{tikzpicture}
+#+end_export
+
+#+HEADER: :file ../img/contour.svg :imagemagick yes
+#+HEADER: :results output silent :headers '("\\usepackage{tikz}")
+#+HEADER: :fit yes :imoutoptions -geometry 400 :iminoptions -density 600
+#+BEGIN_src latex
+\begin{tikzpicture}
+\draw[->] (-3,0) -- (-2,0) arc[radius=0.5cm,start angle=-180,end angle=0] (-1,0) -- (1,0) arc[radius=0.5cm,start angle=180,end angle=0] (2,0) -- (3,0);
+\filldraw (-1.5,0) circle[radius=1mm];
+\filldraw (1.5,0) circle[radius=1mm];
+\end{tikzpicture}
+#+END_src
