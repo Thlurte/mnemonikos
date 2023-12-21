@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f7ac4aa6-9d37-4659-8e69-6a5ac838bf18
+:END:
+#+title: Padding and Stride
+Kernals have width and height greater than 1, after performing many convolution operations, we end up with the output that are considerably smaller than our input.
+
+For example if we start with a 240 \times 240 pixels, ten layers of 5 \times 5 convolutions reduce the image tp 200 \times 200 pixels, slicing off 30% of the image and with it obliterating any interesting information on the boundaries of the original image.
+
+To overcome this issue in [[id:5c9de025-e68f-49f8-9698-9103653c397d][Computer Vision]] we use a technique called Padding. This technique invloves adding extra pixels of filler around the boundary of our input image, increasing the effective size of the image.
+
+Usually we set the values of the extra pixels to zero. In terms of how much to pad, it turns out there two common choices that are called, Valid convolutions and Same convolutions.
+- *Valid Convolutions* : This means no padding.
+  - Thus (n \times n) * (f \times f) = (n-f+1) \times (n-f+1)
+- *Same Convolution* : When we pad, the output size should be the same as the input size.
+  - Thus (n+2p-f+1 \times n+29-f+1)
+    
+     $p = \frac{f-1}{2}$
+
+   Context : When computing the cross-correlation, we start with the convolution window at the upper-left corner of the input tensor, and then slide it over all locations both down and to the right.
+
+   Usually we defaulted to sliding one element at a time. However, for computational efficiency or to downsample, we move our kernal window more than one element at a time.

@@ -40,6 +40,26 @@ We detect the vertical edges by convolving the (3 \times 3)  matrix (We call thi
 \end{tabular}
 \end{center}
 
+Math behind this calculation of deriving 4 \times 4 matrix could be found using the following formula :
+
+$$
+n-f+1 \times n-f+1
+$$
+
+where :
+- (n \times n) = (6 \times 6) image
+-   (f \times f) = (3 \times 3) filter
+
+ Substituting the formula we get :
+ 
+$$
+6-3+1 \times  6-3+1
+ $$ 
+
+$$
+(4 \times 4)
+ $$
+
 To eloborate simply on how the operation works we say,
 
 - Apply the kernal on the first three rows and columns of the matrix
@@ -76,11 +96,20 @@ We saw that the above (3 \times 3) filter was able to capture the vertical edges
 
 Apart from this, in general following filters are used to detect edges in a image.
 
-\begin{tabular}{|c|c|c|}
+\begin{table}[htbp]
+Sobel Filter => \begin{tabular}{|c|c|c|}
 \hline
 1 & 0 & -1 \\ \hline
 2 & 0 & -2 \\ \hline
 1 & 0 & -1 \\ \hline
 \end{tabular}
+\end{table}
 
-
+\begin{table}[htbp]
+Scharr Filter => \begin{tabular}{|c|c|c|}
+\hline
+3 & 0 & -3 \\ \hline
+10 & 0 & -10 \\ \hline
+3 & 0 & -3 \\ \hline
+\end{tabular}
+\end{table}
