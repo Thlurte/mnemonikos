@@ -8,6 +8,7 @@ In a given scenario we might have to detect vertical and horizontal images, so h
 
 Let's say that there is an (6 \times 6) image :
 
+$$
 \begin{center}
 \begin{tabular}{|c |c| c| c| c| c|}
 \hline
@@ -19,9 +20,10 @@ Let's say that there is an (6 \times 6) image :
 10 & 10 & 10 & 0 & 0 & 0 \\ \hline
 \end{tabular} 
 \end{center}
+$$
 
 We detect the vertical edges by convolving the (3 \times 3)  matrix (We call this matrix filter or kernal)  on the given image :
-
+$$
 \begin{center}
 \begin{tabular}{|c |c| c| c| c| c|}
 \hline
@@ -39,6 +41,7 @@ We detect the vertical edges by convolving the (3 \times 3)  matrix (We call thi
 1 & 0 & -1 \\ \hline
 \end{tabular}
 \end{center}
+$$
 
 Math behind this calculation of deriving 4 \times 4 matrix could be found using the following formula :
 
