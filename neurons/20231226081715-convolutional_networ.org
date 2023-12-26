@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       dd90c6c5-9d29-4de9-8994-dea46ccdc52d
+:END:
+#+title: Convolutional Networ
+
+To build a conv net, let's say each image in the dataset is 39 \times 39 \times 3. And assume that first layer uses 10 3 \times 3 filters, stride of 1 and no padding.
+#+DOWNLOADED: screenshot @ 2023-12-26 08:22:19
+#+attr_org: :width 250
+
+[[file:../../../journal/_resources/org_20231226-082219_screenshot.png]]
+
+The output of this layer would be 37 \times 37 \times 10 matrix, we can calculate this using the formula we derived in the earlier notes. It would be like
+
+\begin{align}
+\frac{39+0-3}{1}+1=37
+\end{align}
+
+#+DOWNLOADED: screenshot @ 2023-12-26 08:26:23
+#+attr_org: :width 250
+[[file:../../../journal/_resources/org_20231226-082623_screenshot.png]]
+
+In the second layer we also add 20 5 \times 5 filter, stride of 2 and no padding.
+
+Output of the second layer would be :
+\begin{align}
+\frac{37+0-5}{2}+1 = 17
+\end{align}
+
+The third layer (a^{[2]}) would be 17 \times 17 \times 20
+
+#+DOWNLOADED: screenshot @ 2023-12-26 08:34:12
+[[file:../../../journal/_resources/org_20231226-083412_screenshot.png]]
+
+And it would be of 40 5 \times 5 filters, stride of 2 and no padding.
+
+The output of this network would be 7 \times  7 \times 40.
+
+#+DOWNLOADED: screenshot @ 2023-12-26 08:36:48
+[[file:../../../journal/_resources/org_20231226-083648_screenshot.png]]
+
+Then we take the output of a^{[2]} and flatten it into a vector and feed it to a logistic regression unit or softmax unit.
+
+#+DOWNLOADED: screenshot @ 2023-12-26 08:39:30
+[[file:../../../journal/_resources/org_20231226-083930_screenshot.png]]
