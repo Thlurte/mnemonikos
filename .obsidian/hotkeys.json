@@ -1,10 +1,10 @@
 {
-  "app:toggle-left-sidebar": [
+  "workspace:split-vertical": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "Z"
+      "key": "S"
     }
   ],
   "app:toggle-right-sidebar": [
@@ -15,34 +15,20 @@
       "key": "C"
     }
   ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    },
+  "obsidian-zotero-desktop-connector:zdc-Cite": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "A"
+      "key": "P"
     }
   ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    },
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "D"
+      "key": "Z"
     }
   ],
   "workspace:next-tab": [
@@ -86,12 +72,34 @@
       "key": "Q"
     }
   ],
-  "workspace:split-vertical": [
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    },
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "S"
+      "key": "A"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }

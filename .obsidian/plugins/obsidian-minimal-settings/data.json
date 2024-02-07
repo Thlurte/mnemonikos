@@ -2,8 +2,8 @@
   "theme": "moonstone",
   "lightStyle": "minimal-light-white",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-catppuccin-light",
-  "darkScheme": "minimal-default-dark",
+  "lightScheme": "minimal-flexoki-light",
+  "darkScheme": "minimal-flexoki-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,
@@ -19,7 +19,7 @@
   "chartWidth": "chart-default-width",
   "colorfulHeadings": true,
   "colorfulFrame": false,
-  "colorfulActiveStates": true,
+  "colorfulActiveStates": false,
   "trimNames": true,
   "labeledNav": false,
   "fullWidthMedia": true,
@@ -31,6 +31,6 @@
   "useSystemTheme": false,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "devBlockWidth": false
 }

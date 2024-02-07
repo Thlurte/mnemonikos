@@ -1,13 +1,10 @@
 [
-  "obsidian-excalidraw-plugin",
-  "dataview",
-  "table-editor-obsidian",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "obsidian-git",
-  "luhman",
-  "obsidian-annotator",
-  "obsidian-focus-mode",
   "highlightr-plugin",
-  "obsidian-graphviz"
+  "obsidian-pandoc-reference-list",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export",
+  "obsidian-git"
 ]

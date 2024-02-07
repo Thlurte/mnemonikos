@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       d974eb2d-09ea-4753-933c-74046d3b819f
-:END:
-#+title: Mini-batch Gradient Descent
-The problem with batch gradient descent is that, we would find it difficult to train all data points in one iteration when the dataset is huge. To overcome this issue we can use mini-batch gradient descent.
-
-So particulary in mini-batch gradient descent we break down the training set into mini batches.

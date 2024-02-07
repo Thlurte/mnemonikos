@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       090eaa09-b683-47d1-b862-afca2ddef696
-:END:
-#+title: Convolutions Over Volume
-Throughout the previous notes we discussed how we can implement convolutions over 2D/gray scale images, now let's see how we can implemenet convolutions over RGB 3D images.
-
-An RGB image could be 6 \times 6 \times 3 where three corresponds to the three color channels. As we perform convolutional operation on a RGB image, we should notice that the filter should contain the same number of color channels just as the image has.
-
-Here, what we actually do is, we tae the 3 \times 3 \times 3 filter and place it in the left most position of the image. And then we take each of these 27 numbers and multiply them with the corresponding numbers from red, green and blue channels of the image.

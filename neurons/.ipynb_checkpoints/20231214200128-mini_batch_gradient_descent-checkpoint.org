@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       d974eb2d-09ea-4753-933c-74046d3b819f
-:END:
-#+title: Mini-batch Gradient Descent
-Mini-batch gradient descent is a variation of the gradient descent algorithm that ==splits the training dataset into small batches== that are used to calculate model error and update model coefficients.
-

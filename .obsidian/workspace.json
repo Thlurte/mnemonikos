@@ -1,32 +1,58 @@
 {
   "main": {
-    "id": "996095f9780b0501",
+    "id": "9751e148a98d5d45",
     "type": "split",
     "children": [
       {
-        "id": "768d77bf3cccd24b",
+        "id": "fb7f505141e3747a",
         "type": "tabs",
         "children": [
           {
-            "id": "2f308c118a29b566",
+            "id": "3e4407bf5d983c46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slip-box/1700766892603.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "d8a26135cc5afc99",
+            "id": "2791b0d18c2fcce6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-12 09.59.51.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "59c65b70158df60f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "272b29c3a3279b60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a66cbedca306d4a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e63a579a59347ded",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
             }
           }
         ]
@@ -35,15 +61,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9dd17f39301c9994",
+    "id": "566d28cf4bdc1ab2",
     "type": "split",
     "children": [
       {
-        "id": "ca3d86231b01ac02",
+        "id": "978732d84917e987",
         "type": "tabs",
         "children": [
           {
-            "id": "486d3ae12b1f9f0c",
+            "id": "45eb6e041d4e897b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,12 +79,12 @@
             }
           },
           {
-            "id": "f27a8a506b643a9a",
+            "id": "c88ec3d9794bd12e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "bubb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +94,7 @@
             }
           },
           {
-            "id": "1e7381d3b75cef66",
+            "id": "c68358f8f53bb6a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,24 +105,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5110321044922,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "aeb4354c8f0ac4e5",
+    "id": "ff34d0cc3d98b153",
     "type": "split",
     "children": [
       {
-        "id": "599f123d0dd6c3c9",
+        "id": "061146ffef05e0b4",
         "type": "tabs",
         "children": [
           {
-            "id": "93a1227083004ec1",
+            "id": "652718b9de5c94f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slip-box/1700766892603.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +133,18 @@
             }
           },
           {
-            "id": "e0b04f498b8a154f",
+            "id": "a758bd29725977cc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slip-box/1700766892603.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9d464c2462ce2e25",
+            "id": "47381b7257ee26c3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,31 +155,19 @@
             }
           },
           {
-            "id": "54d2762db12f75b6",
+            "id": "a8a9f5bd404bd271",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "slip-box/1700766892603.md"
-              }
-            }
-          },
-          {
-            "id": "5e1af4f802cb4ab4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "a6899843770d4f3a",
+            "id": "6975044a5816a1d2",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
+              "type": "ReferenceListView",
+              "state": {}
             }
           }
         ],
@@ -173,55 +185,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2f308c118a29b566",
+  "active": "45eb6e041d4e897b",
   "lastOpenFiles": [
-    "Pasted image 20231124011444.png",
-    "Pasted image 20231124011344.png",
-    "Pasted image 20231124010913.png",
-    "Pasted image 20231124005428.png",
-    "Pasted image 20231124005144.png",
-    "Pasted image 20231124005015.png",
-    "Excalidraw/Drawing 2023-11-12 09.59.51.excalidraw.md",
-    "slip-box/1700766892603.md",
-    "clusters/169885/1699529569671.md",
-    "clusters/169885/1699505620546.md",
-    "clusters/169885/1699615987764.md",
-    "clusters/169885/1699453610948.md",
-    "clusters/169885/1699419466843.md",
-    "clusters/169885/1699098810685.md",
-    "clusters/169975/1699752954609.md",
-    "clusters/169975/1699752954608.md",
-    "1699752954610.md",
-    "Excalidraw",
-    "skeleton/record.md",
-    "slip-box/1699753929698.md",
-    "clusters/169975",
-    "clusters/169885/1698851750063.md",
-    "clusters/169885/1699618212800.md",
-    "clusters/169885",
-    "slip-box/1699751391601.md",
-    "slip-box/1699751348763.md",
-    "clusters/169885/1699591533629.md",
-    "clusters/169885/1699590789630.md",
-    "clusters/169885/1699590756410.md",
-    "clusters/169885/1699589533785.md",
-    "clusters/169885/1699519391617.md",
-    "clusters/169885/1699519942423.md",
-    "clusters/169885/1699504474789.md",
-    "clusters/169885/1699513362210.md",
-    "clusters",
-    "workings",
-    "source/SnowCrash.pdf",
-    "source/Snow Crash -- Neal Stephenson -- 2003 -- Random House Publishing Group -- 9780553898194 -- 1ffce47922250bd9665db93e4a72efe3 -- Anna’s Archive.pdf",
-    "source/Perceptrons.pdf",
-    "source/Perceptrons_ An Introduction to Computational Geometry -- Marvin Minsky, Seymour A. Papert -- Expanded, 1987 -- The MIT Press -- 9780262631112 -- 8486b416f728b5d1035d2543e794a216 -- Anna’s Archive.pdf",
-    "source/Computation, Finite And Infinite Machines -- Marvin Lee Minsky -- Prentice;Hall series in automatic computation, 1967 -- Prentice-Hall -- e401815c991634a84a5e6552e5f49f0f -- Anna’s Archive.pdf"
+    "Untitled 3.epub",
+    "@kochSiameseNeuralNetworks2015.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Welcome.md",
+    "kochSiameseNeuralNetworks2015.md",
+    "krizhevskyImageNetClassificationDeep2012.md"
   ]
 }
