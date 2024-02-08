@@ -101,5 +101,13 @@
       ],
       "key": "D"
     }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
   ]
 }
