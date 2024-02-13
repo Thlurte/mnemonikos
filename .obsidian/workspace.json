@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202402081655.md",
-                "mode": "source",
+                "file": "202402132326.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402081655.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402081655.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202402081655.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,26 +149,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2791b0d18c2fcce6",
+  "active": "652718b9de5c94f3",
   "lastOpenFiles": [
+    "202402132326.md",
+    "202402132318.md",
+    "slip-box/1707330579096.md",
+    "202402081625.md",
+    "202402081636.md",
     "202402081644.md",
     "202402081655.md",
-    "202402081636.md",
-    "slip-box/1707330579096.md",
+    "Pasted image 20240209103655.png",
     "tox/1707368768006.md",
-    "202402081625.md",
+    "tox/1707368768006.pdf",
     "Excalidraw/Drawing 2024-02-08 14.03.47.excalidraw.md",
     "Excalidraw",
     "tox/1707377046613.md",
-    "Pasted image 20240208132737.png",
-    "tox/1707376906017.md",
     "tox/1707377031687.md",
     "tox/1707376979190.md",
     "tox/1707376958245.md",
+    "tox/1707376906017.md",
     "tox",
+    "202402081636.pdf",
+    "Pasted image 20240208132737.png",
     "Pasted image 20240208103425.png",
     "Pasted image 20240208103532.png",
     "slip-box",
