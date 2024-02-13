@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb7f505141e3747a",
+        "id": "c4f67a2edcbb2221",
         "type": "tabs",
         "children": [
           {
-            "id": "2791b0d18c2fcce6",
+            "id": "e8b8bd38ef4b2cd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202402132326.md",
+                "file": "buffer/1707849791450.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "buffer/1707849791450.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "buffer/1707849791450.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "buffer/1707849791450.md"
+              }
             }
           },
           {
@@ -134,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,19 +159,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "652718b9de5c94f3",
+  "active": "e8b8bd38ef4b2cd3",
   "lastOpenFiles": [
-    "202402132326.md",
-    "202402132318.md",
-    "slip-box/1707330579096.md",
-    "202402081625.md",
-    "202402081636.md",
-    "202402081644.md",
+    "buffer/1707849776466.md",
+    "buffer/1707849761540.md",
+    "Excalidraw/Drawing 2024-02-08 14.03.47.excalidraw.md",
+    "buffer/1707849791450.md",
+    "assets/templates/1707850135146.md",
+    "buffer/1707850336466.md",
+    "buffer/1707850451707.md",
+    "buffer/1707850665387.md",
+    "buffer/1707850633947.md",
+    "buffer/1707850281395.md",
+    "buffer/1707850165467.md",
+    "buffer/1707850179619.md",
+    "assets/templates",
+    "Untitled",
+    "README.md",
+    "assets",
+    "assets/Pasted image 20240214001046.png",
     "202402081655.md",
+    "202402081644.md",
+    "202402081636.md",
+    "202402081625.md",
+    "202402132326a.md",
+    "buffer",
+    "slip-box/1707330579096.md",
     "Pasted image 20240209103655.png",
     "tox/1707368768006.md",
     "tox/1707368768006.pdf",
-    "Excalidraw/Drawing 2024-02-08 14.03.47.excalidraw.md",
     "Excalidraw",
     "tox/1707377046613.md",
     "tox/1707377031687.md",
@@ -179,14 +200,7 @@
     "Pasted image 20240208103425.png",
     "Pasted image 20240208103532.png",
     "slip-box",
-    "Untitled.md",
     "Untitled 3.epub",
-    "@kochSiameseNeuralNetworks2015.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Welcome.md",
-    "kochSiameseNeuralNetworks2015.md",
-    "krizhevskyImageNetClassificationDeep2012.md"
+    "@kochSiameseNeuralNetworks2015.md"
   ]
 }
