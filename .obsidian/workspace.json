@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buffer/1707849791450.md",
+                "file": "buffer/1707924271409.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buffer/1707849791450.md",
+                "file": "buffer/1707924271409.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buffer/1707849791450.md",
+                "file": "buffer/1707924271409.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buffer/1707849791450.md"
+                "file": "buffer/1707924271409.md"
               }
             }
           },
@@ -161,10 +161,11 @@
   },
   "active": "e8b8bd38ef4b2cd3",
   "lastOpenFiles": [
+    "buffer/1707849791450.md",
+    "buffer/1707924271409.md",
     "buffer/1707849776466.md",
     "buffer/1707849761540.md",
     "Excalidraw/Drawing 2024-02-08 14.03.47.excalidraw.md",
-    "buffer/1707849791450.md",
     "assets/templates/1707850135146.md",
     "buffer/1707850336466.md",
     "buffer/1707850451707.md",
@@ -200,7 +201,6 @@
     "Pasted image 20240208103425.png",
     "Pasted image 20240208103532.png",
     "slip-box",
-    "Untitled 3.epub",
-    "@kochSiameseNeuralNetworks2015.md"
+    "Untitled 3.epub"
   ]
 }
