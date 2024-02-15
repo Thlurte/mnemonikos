@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buffer/1707924271409.md",
+                "file": "buffer/1708013667933.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buffer/1707924271409.md",
+                "file": "buffer/1708013667933.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buffer/1707924271409.md",
+                "file": "buffer/1708013667933.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buffer/1707924271409.md"
+                "file": "buffer/1708013667933.md"
               }
             }
           },
@@ -161,10 +161,14 @@
   },
   "active": "e8b8bd38ef4b2cd3",
   "lastOpenFiles": [
-    "buffer/1707849791450.md",
     "buffer/1707924271409.md",
+    "buffer/1708013667933.md",
+    "buffer/1707849791450.md",
     "buffer/1707849776466.md",
     "buffer/1707849761540.md",
+    "temp/slip-box/202402081636.md",
+    "temp/1708006003762.md",
+    "temp",
     "Excalidraw/Drawing 2024-02-08 14.03.47.excalidraw.md",
     "assets/templates/1707850135146.md",
     "buffer/1707850336466.md",
@@ -175,13 +179,11 @@
     "buffer/1707850165467.md",
     "buffer/1707850179619.md",
     "assets/templates",
-    "Untitled",
     "README.md",
     "assets",
     "assets/Pasted image 20240214001046.png",
-    "202402081655.md",
-    "202402081644.md",
-    "202402081636.md",
+    "temp/slip-box/202402081655.md",
+    "temp/slip-box/202402081644.md",
     "202402081625.md",
     "202402132326a.md",
     "buffer",
@@ -193,14 +195,12 @@
     "tox/1707377046613.md",
     "tox/1707377031687.md",
     "tox/1707376979190.md",
-    "tox/1707376958245.md",
-    "tox/1707376906017.md",
     "tox",
     "202402081636.pdf",
     "Pasted image 20240208132737.png",
     "Pasted image 20240208103425.png",
     "Pasted image 20240208103532.png",
-    "slip-box",
+    "temp/slip-box",
     "Untitled 3.epub"
   ]
 }
